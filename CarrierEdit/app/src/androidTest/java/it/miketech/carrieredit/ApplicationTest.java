@@ -1,4 +1,4 @@
-package miketech.it.carrieredit;
+package it.miketech.carrieredit;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

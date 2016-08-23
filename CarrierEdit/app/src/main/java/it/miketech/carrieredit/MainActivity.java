@@ -1,4 +1,4 @@
-package miketech.it.carrieredit;
+package it.miketech.carrieredit;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,9 +9,7 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.Switch;
 
-import static miketech.it.carrieredit.R.id.aSwitch;
-import static miketech.it.carrieredit.R.id.button;
-import static miketech.it.carrieredit.R.id.editText;
+import static it.miketech.carrieredit.R.id.button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener,CompoundButton.OnCheckedChangeListener {
 

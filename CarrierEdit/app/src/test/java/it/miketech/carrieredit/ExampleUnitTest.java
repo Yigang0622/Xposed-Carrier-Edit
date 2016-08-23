@@ -1,4 +1,4 @@
-package miketech.it.carrieredit;
+package it.miketech.carrieredit;
 
 import org.junit.Test;
 

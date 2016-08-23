@@ -1,7 +1,6 @@
-package miketech.it.carrieredit;
+package it.miketech.carrieredit;
 
 import android.app.Activity;
-import android.app.AndroidAppHelper;
 import android.app.Application;
 import android.content.Context;
 import android.content.SharedPreferences;

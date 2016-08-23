@@ -1,4 +1,4 @@
-package miketech.it.carrieredit;
+package it.miketech.carrieredit;
 import android.widget.TextView;
 
 import de.robv.android.xposed.IXposedHookLoadPackage;
